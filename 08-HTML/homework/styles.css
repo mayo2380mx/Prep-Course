@@ -1,0 +1,19 @@
+
+#thirdDiv{
+    height: "600";
+    width: "400px";
+    background-color: rgb(0, 195, 255);
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    padding: 50px;
+    border: 1px solid greenyellow;
+}
+body{
+    background-image: url("https://fondosmil.com/fondo/36871.jpg");
+}
+div{
+    text-align: center;
+}
+    
